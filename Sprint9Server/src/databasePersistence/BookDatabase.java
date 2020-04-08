@@ -19,7 +19,7 @@ public class BookDatabase implements BookPersistence {
     private static final String DRIVER = "org.postgresql.Driver";
     private static final String URL = "jdbc:postgresql://localhost:5432/postgres";
     private static final String USER = "postgres";
-    private static final String PASSWORD = "08191";
+    private static final String PASSWORD = "FILL WITH YOUR OWN PASSWORD";
 
     /**
      * The constructor makes the connection to the database by passing the driver,url,username and password that
