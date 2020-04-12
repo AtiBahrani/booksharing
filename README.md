@@ -7,4 +7,5 @@ The act of sharing is done in person. The project is consudcted using MVVM desgi
 
 
 I have been part of this project and worked on the database desgin and SQL impelementation.
-I have worked on the model and Unit test as well.
+I have worked on the model and was responsible for Unit test as well.
+The Data persistence is implemented using Adapter design pattern on top of a jar file for SQL queries.
